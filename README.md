@@ -1,8 +1,8 @@
 # Task Manager
 
-![index.php](./screenshots/index.png)
-![Edit Task](./screenshots/edit.png)
-![Edit Success](./screenshots/success.png)
+![index.php](./screenshots/index.PNG)
+![Edit Task](./screenshots/edit.PNG)
+![Edit Success](./screenshots/success.PNG)
 
 A modern Task Manager web application built with PHP (RESTful API), Bootstrap 5, and Font Awesome.
 It allows users to Create, Read, Update, and Delete (CRUD) tasks with a simple, responsive, and elegant UI.
